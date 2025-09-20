@@ -205,4 +205,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Happy coding! 🎉**
+**Happy coding!**
