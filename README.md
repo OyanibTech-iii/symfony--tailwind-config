@@ -2,7 +2,7 @@
 
 A modern Symfony 7.3 application with Tailwind CSS 4.x for styling, featuring Webpack Encore for asset management and Stimulus for interactive components.
 
-## 🚀 Features
+## Features
 
 - **Symfony 7.3** - Latest stable version of the Symfony framework
 - **Tailwind CSS 4.x** - Modern utility-first CSS framework
@@ -12,14 +12,14 @@ A modern Symfony 7.3 application with Tailwind CSS 4.x for styling, featuring We
 - **Doctrine ORM** - Database abstraction layer
 - **Twig** - Flexible templating engine
 
-## 📋 Requirements
+## Requirements
 
 - PHP 8.2 or higher
 - Node.js 16+ and npm
 - Composer
 - Symfony CLI (optional but recommended)
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -56,7 +56,7 @@ A modern Symfony 7.3 application with Tailwind CSS 4.x for styling, featuring We
    npm run watch
    ```
 
-## 🏃‍♂️ Running the Application
+## Running the Application
 
 ### Development Server
 
@@ -81,7 +81,7 @@ npm run build
 
 The application will be available at `http://localhost:8000`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── assets/                 # Frontend assets
@@ -107,7 +107,7 @@ The application will be available at `http://localhost:8000`
 └── package.json          # Node.js dependencies
 ```
 
-## 🎨 Styling with Tailwind CSS
+## Styling with Tailwind CSS
 
 This project uses Tailwind CSS 4.x with PostCSS. The main CSS file is located at `assets/styles/app.css`.
 
@@ -126,14 +126,14 @@ This project uses Tailwind CSS 4.x with PostCSS. The main CSS file is located at
 </h1>
 ```
 
-## 🧪 Testing
+## Testing
 
 Run the test suite:
 ```bash
 php bin/phpunit
 ```
 
-## 📦 Available Scripts
+## Available Scripts
 
 ### PHP Scripts
 - `composer install` - Install PHP dependencies
@@ -146,7 +146,7 @@ php bin/phpunit
 - `npm run build` - Build assets for production
 - `npm run dev-server` - Start development server with hot reload
 
-## 🔧 Configuration
+## Configuration
 
 ### Webpack Encore
 The build process is configured in `webpack.config.js`. It includes:
@@ -158,7 +158,7 @@ The build process is configured in `webpack.config.js`. It includes:
 ### PostCSS
 Tailwind CSS is configured via PostCSS in `postcss.config.mjs`.
 
-## 🚀 Deployment
+## Deployment
 
 1. **Build production assets**
    ```bash
@@ -177,14 +177,14 @@ Tailwind CSS is configured via PostCSS in `postcss.config.mjs`.
 
 4. **Deploy to your web server**
 
-## 📚 Documentation
+## Documentation
 
 - [Symfony Documentation](https://symfony.com/doc/current/index.html)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Webpack Encore Documentation](https://symfony.com/doc/current/frontend.html)
 - [Stimulus Documentation](https://stimulus.hotwired.dev/)
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -192,11 +192,11 @@ Tailwind CSS is configured via PostCSS in `postcss.config.mjs`.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is proprietary. All rights reserved.
 
-## 🆘 Support
+## Support
 
 If you encounter any issues or have questions, please:
 1. Check the [Symfony documentation](https://symfony.com/doc/current/index.html)
