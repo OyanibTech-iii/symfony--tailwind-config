@@ -23,7 +23,7 @@ A modern Symfony 7.3 application with Tailwind CSS 4.x for styling, featuring We
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/OyanibTech-iii/symfony--tailwind-config.git>
    cd appTailwind
    ```
 
